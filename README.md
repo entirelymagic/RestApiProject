@@ -1,5 +1,14 @@
 # RestApiProject
 Create a fully functioning user dataase app to build a REST API
+Allows users to authenticate with username & password
+Manage user profile feed items
+
+Learned:
+ -how to create a working local development server, 
+ -how to use Django Models to create database, 
+ -enable and use Django Admin
+ -use Django dev server to run and test the code
+ -deploy the app to AWS
 
  - api/ - you can check the API main view using api/
  - api/login/ - to login with the user and generate a Token / 
