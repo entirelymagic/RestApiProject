@@ -1,5 +1,5 @@
 # RestApiProject
-Create a fully functioning user dataase app to build a REST API
+Create a fully functioning user database app to build a REST API
 Allows users to authenticate with username & password
 Manage user profile feed items
 
