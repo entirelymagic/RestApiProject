@@ -4,12 +4,13 @@ Allows users to authenticate with username & password
 Manage user profile feed items
 
 Learned:
-  -how to create a working local development server, 
-  -how to use Django Models to create database, 
-  -enable and use Django Admin
-  -use Django dev server to run and test the code
-  -deploy the app to AWS
+  - how to create a working local development server, 
+  - how to use Django Models to create database, 
+  - enable and use Django Admin
+  - use Django dev server to run and test the code
+  - deploy the app to AWS
 
+Navigation details:
  - api/ - you can check the API main view using api/
  - api/login/ - to login with the user and generate a Token / 
               can use Mode header from Google Chrome with name Authorization Token 33f5c3afc06a45360aa2d0ab21d642621991628b as example
